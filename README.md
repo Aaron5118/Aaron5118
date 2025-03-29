@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I’m Aaron Cardozo, a passionate **UI/UX designer, web developer, and product builder** who loves turning ideas into seamless digital experiences. Always exploring new tech, I focus on creating user-friendly solutions that solve real-world problems. 🚀</p>
+<p align="left">I’m Aaron Cardozo, a passionate UI/UX designer, web developer, and product builder** who loves turning ideas into seamless digital experiences. Always exploring new tech, I focus on creating user-friendly solutions that solve real-world problems. 🚀</p>
 
 ###
 
