@@ -1,11 +1,11 @@
 <h1 align="left">Hi,I'm Aaron </h1>
 
-![Alt Text](GithubHeader.png)
+![Alt Text](GitHubHeader.png)
 
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I’m Aaron Cardozo, a passionate **UI/UX designer, web developer, and product builder** who loves turning ideas into seamless digital experiences. Always exploring new tech, I focus on creating user-friendly solutions that solve real-world problems. 🚀</p>
 
 ###
 
